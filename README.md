@@ -1,5 +1,5 @@
 # Simple Poll Bot for Discord
-This project is a simple poll bot created for Discord to add images to polls. Utilizing the Discord.js library, this bot allows users to create image-enhanced polls within their Discord servers.
+This project is a simple poll bot created for Discord to add images to polls. Utilizing the Discord.js library, this bot allows users to create image-enhanced polls within their Discord servers. It does make use of any databases and is easy to set up.
 
 ## Requirements
 - Node.js v18.16.0
